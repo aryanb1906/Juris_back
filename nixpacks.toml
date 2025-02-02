@@ -6,3 +6,6 @@ nixPackages = [
     "python3-dev",
     "libpq-dev"
 ]
+
+[build]
+pythonVersion = "3.10"
