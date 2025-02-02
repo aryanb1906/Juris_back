@@ -8,7 +8,7 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/juris_ai.git
+    git clone https://github.com/aryanb1906/Juris_back
     ```
 2. Navigate to the project directory:
     ```bash
